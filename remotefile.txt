@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-modification distante
-=======
-modification locale
->>>>>>> Stashed changes
+modification distante et modification locale
